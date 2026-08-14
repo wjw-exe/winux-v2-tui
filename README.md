@@ -77,10 +77,6 @@ pip install windows-curses requests beautifulsoup4 html2text
 
 **启动**
 
-```bash
-python winux_tui.py
-```
-
 建议在 **Windows Terminal** 里运行，图标和光标显示最完整。用传统 CMD 也能跑，只是图标会变成纯文本（DIR、FIL 这种），功能不受影响。
 
 ### 怎么用
@@ -364,10 +360,6 @@ What each package does:
 If you don't need the web features, installing just `windows-curses` is enough to get the file manager running.
 
 **Launch**
-
-```bash
-python winux_tui.py
-```
 
 Running inside **Windows Terminal** is recommended — icons and cursor render correctly. Legacy CMD works too; icons will appear as plain text (DIR, FIL, etc.) but all functionality remains.
 
